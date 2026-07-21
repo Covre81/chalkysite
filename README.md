@@ -36,4 +36,4 @@ If this policy changes, the "Last updated" date above will be revised and the up
 
 ## Contact
 
-Questions about this policy: **itarana31@gmail.com**
+Questions about this policy: **chalkysite@gmail.com**
