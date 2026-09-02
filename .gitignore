@@ -1,0 +1,7 @@
+# Chaves de assinatura — NUNCA commitar (ver SIGNING.md)
+keystore.properties
+keystore/
+*.jks
+*.keystore
+*.jks.age
+*.gpg
